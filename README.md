@@ -9,6 +9,6 @@ Sources of Help:
   
 ## License
 
-This project is licensed under the [MIT license](./LICENSE)
+This project is licensed under the [MIT license](./LICENSE).
 
 
